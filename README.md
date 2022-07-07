@@ -1,8 +1,8 @@
 ### Hi, I´m Óscar 💻
 
 ```python
-# Orr 
+# Orr
 pronouns = ["he","him"]
 code = [Python, HTML, CSS]
-learning = [Big Data]
+learning = [Big Data, Django and Web Developing]
 ```
