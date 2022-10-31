@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to my profile!
+  Hi, I'm Óscar! 👋🏼
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
