@@ -9,25 +9,15 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/Orr_21"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/Orr_21"><img width="50px" alt="Twitter" title="Twitter" src="https://i.imgur.com/ejzlefv.gif"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/ZYeR9y93" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/ZYeR9y93" alt="Dev Pro Tips Discussion & Support Server"><img width="50px" src="https://i.imgur.com/Yfn4ldF.gif"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/o.r.r_21/" alt="Dev Pro Tips Discussion & Support Server"><img width="50px" src="https://i.imgur.com/Fm8uHXn.gif"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <br/>
-
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
-  <a href="https://github.com/OscarRicoRo?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/OscarRicoRo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/OscarRicoRo?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/OscarRicoRo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-</p>
 
 ## 📘 My projects
 
