@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hi, I'm Óscar! 👋🏼
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9C1D60&width=435&lines=OscarRicoRo" alt="Typing SVG" /></a>
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
