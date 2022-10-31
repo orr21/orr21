@@ -3,9 +3,9 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=100&color=B82F7F&width=435&lines=Data+Student;University+Mentor;Always+learning+new+things!" alt="Typing SVG" /></a>
-</p>
+<div align = "center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=300&color=AE265E&lines=Data+Engineer+In+Progress;Always+learning+new+things!" alt="Typing SVG" /></a>
+</div>
 
 <!-- Social icons section -->
 <p align="center">
