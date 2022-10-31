@@ -4,7 +4,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <div align = "center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=AE265E&lines=Data+Engineer+In+Progress;Always+learning+new+things!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=AE265E&lines=Data+Engineer+In+Progress!;Always+learning+new+things!" alt="Typing SVG" /></a>
 </div>
 
 <!-- Social icons section -->
