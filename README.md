@@ -10,11 +10,8 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://discord.gg/ZYeR9y93"><img width="50px" alt="Twitter" title="Twitter" src="https://i.imgur.com/ejzlefv.gif"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/Orr_21" alt="Dev Pro Tips Discussion & Support Server"><img width="50px" src="https://i.imgur.com/Yfn4ldF.gif"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/Orr_21" alt="Dev Pro Tips Discussion & Support Server"><img width="65px" height="50px" src="https://cdn.lowgif.com/full/4d0bc732cb8c494f-twitter-logo-gif-www-pixshark-com-images-galleries.gif"/></a>
   <a href="https://www.instagram.com/o.r.r_21/" alt="Dev Pro Tips Discussion & Support Server"><img width="50px" src="https://i.imgur.com/Fm8uHXn.gif"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <br/>
