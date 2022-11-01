@@ -29,6 +29,7 @@
     <a href="https://github.com/OscarRicoRo/ShinyWeb"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=OscarRicoRo&repo=ShinyWeb&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
   <a href="https://github.com/OscarRicoRo/Metro-GPS"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OscarRicoRo&repo=Metro-GPS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/OscarRicoRo/DACD"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OscarRicoRo&repo=DACD&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
+  <a href="https://github.com/OscarRicoRo/IS"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OscarRicoRo&repo=IS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
 </p>
 <p align="left">
   <a href="https://github.com/OscarRicoRo?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
