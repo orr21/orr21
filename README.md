@@ -1,5 +1,7 @@
 # 💫 About Me:
-Desde muy joven, he tenido una pasión por la tecnología y el desarrollo de software. Me encanta aprender nuevos lenguajes de programación, explorar diferentes áreas de la informática y enfrentar desafíos creativos. Además, disfruto trabajar en equipo y colaborar en proyectos emocionantes.
+Entusiasta del fascinante mundo del diseño de arquitecturas de datos y el análisis exploratorio. Mi pasión
+radica en crear soluciones efectivas que permitan gestionar y analizar datos de manera eficiente. También
+tengo conocimientos sobre el desarrolló de modelos de ML e Inteligencia Artificial.
 
 
 # 💻 Tech Stack:
