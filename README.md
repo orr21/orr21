@@ -19,7 +19,7 @@
   
 - 👯 I’m looking to collaborate on **Projects**
   
-- 💬 Ask me about **Java, R, SQL**
+- 💬 Ask me about **Python, R, SQL**
   
 - ⚡ Fun fact: **I love travel**.
 
