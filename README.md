@@ -43,11 +43,8 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orr21&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=orr21&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-
 <br>
 
-
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 -----
 Credits: [Aditya Deshmukh](https://github.com/Aditya664)
