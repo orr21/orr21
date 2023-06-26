@@ -15,11 +15,11 @@
 
 - 🔭 I’m currently working on  **I'm a Student**
   
-- 🌱 I’m currently learning **Python, Java y R** 
+- 🌱 I’m currently learning **Data Science,ML,Data Engineering** 
   
 - 👯 I’m looking to collaborate on **Projects**
   
-- 💬 Ask me about **Python, R, SQL**
+- 💬 Talk to me about **Python, R, Java, SQL**
   
 - ⚡ Fun fact: **I love travel**.
 
@@ -47,4 +47,4 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 -----
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
+Inspiration for this Readme: [Aditya Deshmukh](https://github.com/Aditya664)
