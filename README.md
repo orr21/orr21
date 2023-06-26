@@ -7,7 +7,7 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=orr21.orr21)
+[![Profile views](https://visitcount.itsvg.in/api?id=orr21&icon=0&color=2)](https://visitcount.itsvg.in)
 [![Github](https://img.shields.io/github/followers/orr21?label=Follow&style=social)](https://github.com/orr21)
 
 <div size='20px'> Hi! My name is Óscar. Thank You for taking the time to view my GitHub Profile :smile: 
