@@ -1,50 +1,42 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
+# 👋 Hi, I'm Óscar Rico Rodríguez!
+
+### Data Science and Engineering Student at ULPGC 🎓
+- 🌱 I’m currently specializing in **Data Engineering**
+- 🤖 Passionate about **AI** and **Natural Language Processing (NLP)**
+- 💻 I have experience with **Python, Java, Terraform, Docker, AWS, SQL, Neo4j, MongoDB,** and relational databases.
+- 🚀 I love learning about new topics, and I’m excited about the endless opportunities in the tech world.
+- ⚡ I’m a responsible, hardworking individual who values teamwork but can also excel working independently.
+
+---
+
+### 🔧 Technologies & Tools:
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=orr21&show_icons=true&theme=yellow&hide_border=true&count_private=true" alt="orr21's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orr21&layout=compact&theme=yellow&hide_border=true" alt="orr21's most used languages" />
 </p>
 
+---
 
-[![Profile views](https://visitcount.itsvg.in/api?id=orr21&icon=0&color=2)](https://visitcount.itsvg.in)
-[![Github](https://img.shields.io/github/followers/orr21?label=Follow&style=social)](https://github.com/orr21)
+### 📫 How to reach me:
+- LinkedIn: [Óscar Rico Rodríguez](https://www.linkedin.com/in/orr21/)
+- Email: [oscar.rico101@alu.ulpgc.es](mailto:oscar.rico101@alu.ulpgc.es)
 
-<div size='20px'> Hi! My name is Óscar. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+---
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+### 🚧 Coming soon... 🚧
+- 👀 Stay tuned for exciting new projects and contributions!  
+---
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🔭 I’m currently working on  **I'm a Student**
-  
-- 🌱 I’m currently learning **Data Science,ML,Data Engineering** 
-  
-- 👯 I’m looking to collaborate on **Projects**
-  
-- 💬 Talk to me about **Python, R, Java, SQL**
-  
-- ⚡ Fun fact: **I love travel**.
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-
-[![My Skills](https://skillicons.dev/icons?i=java,python,r,git,mysql,sqlite,html,css)](https://skillicons.dev)
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/orr21/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<br>
-<br>
-<a href = 'https://www.github.com/orr21'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<br>
-<br>
-<br>
-
-[![orr21's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=orr21&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-| ![orr21's github stats](https://github-readme-stats.vercel.app/api?username=orr21&show_icons=true&theme=tokyonight) | ![orr21 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=orr21&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orr21&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=orr21&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-<br>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
------
-Inspiration for this Readme: [Aditya Deshmukh](https://github.com/Aditya664)
+✨ *Fun fact:* I love learning a bit of everything, from AI to general knowledge, and I’m always up for a new challenge!
