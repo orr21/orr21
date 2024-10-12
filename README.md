@@ -12,6 +12,7 @@
 ### 🔧 Technologies & Tools:
 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
+![R](https://img.shields.io/badge/-R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
