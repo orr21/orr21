@@ -38,12 +38,38 @@
 
 ### 📂 Projects
 Here are some of the projects I’ve been working on recently:
+#### [GraphWord](https://github.com/BetaStrive/word2Graph) (Private Repository)
 
-[Developing a Neural Network from Scratch](https://github.com/Optimization-and-Heuristics/NN-Project)
+**Description**:  
+Developed GraphWord, a tool that creates word-based graphs where each node represents a word, and edges connect words that differ by a single letter. This project includes an API for querying and analyzing these graphs, enabling applications in natural language processing and linguistic analysis.
 
-- Description: Built a neural network from the ground up using only NumPy, with no external machine learning libraries. The goal was to gain a deep understanding of the fundamental concepts behind neural networks, including forward and backward propagation, weight initialization, and optimization techniques.
-- Highlights: Implemented custom activation functions, loss functions, and optimizers without relying on high-level libraries. One of the main challenges was managing the complexity of backpropagation and ensuring numerical stability across multiple layers. Successfully trained the network to classify simple datasets, validating its functionality and performance.
-- Skills Learned: Improved understanding of neural network architecture, gained hands-on experience with linear algebra and matrix operations in Python, and honed debugging and optimization skills crucial for deep learning development.
+**Highlights**:
+- Built custom algorithms for generating efficient word similarity graphs.
+- Created a RESTful API with endpoints for shortest path calculation, clustering, and connectivity analysis.
+- Implemented scalable infrastructure using Terraform for cloud provisioning and Mage for automated task management, ensuring reproducible deployments and efficient DevOps practices.
+
+**Skills Learned**:
+- Python programming for graph algorithms and API development.
+- Data processing of large linguistic datasets.
+- Cloud deployment and infrastructure-as-code using Terraform.
+- Automated workflow management with Mage for seamless deployment and maintenance.
+
+---
+
+#### [Developing a Neural Network from Scratch](https://github.com/Optimization-and-Heuristics/NN-Project)
+
+**Description**:  
+Built a neural network entirely from scratch using only NumPy, without any machine learning libraries. This project aimed to deepen understanding of neural network fundamentals, covering concepts like forward and backward propagation, weight initialization, and optimization methods.
+
+**Highlights**:
+- Implemented custom activation functions, loss functions, and optimizers from scratch, without high-level libraries.
+- Navigated the complexities of backpropagation across multiple layers, ensuring numerical stability.
+- Trained the network to classify simple datasets, successfully validating its functionality and performance.
+
+**Skills Learned**:
+- Deepened understanding of neural network architecture and mechanics.
+- Practical experience with linear algebra and matrix operations in Python.
+- Advanced debugging and optimization skills essential for deep learning development.
 
 ---
 
