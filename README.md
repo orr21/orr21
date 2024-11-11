@@ -39,7 +39,7 @@
 ### 📂 Projects
 Here are some of the projects I’ve been working on recently:
 
-[Developing a Neural Network from Scratch]([Link to Project](https://github.com/Optimization-and-Heuristics/NN-Project))
+[Developing a Neural Network from Scratch](https://github.com/Optimization-and-Heuristics/NN-Project)
 
 - Description: Built a neural network from the ground up using only NumPy, with no external machine learning libraries. The goal was to gain a deep understanding of the fundamental concepts behind neural networks, including forward and backward propagation, weight initialization, and optimization techniques.
 - Highlights: Implemented custom activation functions, loss functions, and optimizers without relying on high-level libraries. One of the main challenges was managing the complexity of backpropagation and ensuring numerical stability across multiple layers. Successfully trained the network to classify simple datasets, validating its functionality and performance.
