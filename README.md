@@ -40,9 +40,11 @@
 Here are some of the projects I’ve been working on recently:
 
 [Developing a Neural Network from Scratch]([Link to Project](https://github.com/Optimization-and-Heuristics/NN-Project))
-Description: Built a neural network from the ground up using only NumPy, with no external machine learning libraries. The goal was to gain a deep understanding of the fundamental concepts behind neural networks, including forward and backward propagation, weight initialization, and optimization techniques.
-Highlights: Implemented custom activation functions, loss functions, and optimizers without relying on high-level libraries. One of the main challenges was managing the complexity of backpropagation and ensuring numerical stability across multiple layers. Successfully trained the network to classify simple datasets, validating its functionality and performance.
-Skills Learned: Improved understanding of neural network architecture, gained hands-on experience with linear algebra and matrix operations in Python, and honed debugging and optimization skills crucial for deep learning development.
+
+- Description: Built a neural network from the ground up using only NumPy, with no external machine learning libraries. The goal was to gain a deep understanding of the fundamental concepts behind neural networks, including forward and backward propagation, weight initialization, and optimization techniques.
+- Highlights: Implemented custom activation functions, loss functions, and optimizers without relying on high-level libraries. One of the main challenges was managing the complexity of backpropagation and ensuring numerical stability across multiple layers. Successfully trained the network to classify simple datasets, validating its functionality and performance.
+- Skills Learned: Improved understanding of neural network architecture, gained hands-on experience with linear algebra and matrix operations in Python, and honed debugging and optimization skills crucial for deep learning development.
+
 ---
 
 ✨ *Fun fact:* I love learning a bit of everything, from AI to general knowledge, and I’m always up for a new challenge!
